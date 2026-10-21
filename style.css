@@ -1,6 +1,20 @@
 body{
-    background-color: rgb(255, 254, 254);
+    background-color: #2b2b2b;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1.6;
 }
-h1{
-background-color: rgb(253, 253, 253);
+img{
+    display: block;
+    margin: 25px auto;
+    max-width: 100%;
+    width: 600px;
+}
+
+h1, h2{
+color: #ffffff;
+text-align: center;
 }
