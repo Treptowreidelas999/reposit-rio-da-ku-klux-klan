@@ -12,11 +12,13 @@ img{
     margin: 25px auto;
     max-width: 100%;
     width: 600px;
+    border-radius: 8px;
 }
 
 h1, h2{
 color: #ffffff;
 text-align: center;
+
 }
 p{
     color: #f0f0f0;
