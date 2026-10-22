@@ -26,4 +26,9 @@ p{
 }
 a{
     color: #8ab4f8
+    text-decoration: none;
+}
+a:hover{
+    color: #aecbfa;
+    text-decoration: underline;
 }
