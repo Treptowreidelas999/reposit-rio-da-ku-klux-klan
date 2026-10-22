@@ -39,4 +39,7 @@ a{
     color: #6ec1e4
     text-decoration: none;
 }
-
+a:hover{
+    color: #aecbfa;
+    text-decoration: underline;
+}
